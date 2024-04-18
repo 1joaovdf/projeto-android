@@ -144,6 +144,10 @@ main img {
     margin: auto;
 }
 
+main img.pequena{
+    width: 50%;
+}
+
 div.video{
     background-color: var(--cor5);
     margin-bottom: 30px;
